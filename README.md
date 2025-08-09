@@ -1,0 +1,2 @@
+# TransactionProcessor
+Fracture-Resilient Distributed TransactionProcessor Orchestrator with auditable architecture providing enterprise-grade TransactionProcessor solutions featuring ACID-compliance capabilities
